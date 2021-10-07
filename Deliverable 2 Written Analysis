@@ -15,7 +15,7 @@ creating 3 output arrays allows for a single write operation.
 
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-This is the original 2017 runtime: ![2017_Original Run Time AllStocksAnalysis](https://github.com/forrestcasey/stock-analysis/blob/main/Resources/2017_Original%20Run%20Time%20AllStocksAnalysis.png)
+This is the original 2017 runtime:
 This is the original 2018 runtime:
 Updated code runtime for 2017:
 Updated code runtime for 2018:
